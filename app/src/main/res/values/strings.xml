@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SignedInPubSub</string>
+    <string name="text_connecting">Connecting…</string>
+    <string name="text_reconnecting">Reconnecting…</string>
+    <string name="text_connected">Connected.</string>
+    <string name="text_disconnected">Disconnected.</string>
+    <string name="text_connect">Connect</string>
+    <string name="text_publish">Publish</string>
+    <string name="text_subscribe">Subscribe</string>
+    <string name="text_disconnect">Disconnect</string>
+
+</resources>
